@@ -11,8 +11,9 @@ let deepak=
     name:'deepak',
     educa:'diploma mechanical',
     passout:true,
+    grade:'A',
     persuing:'BTECH mechanical ',
-    passin:2023
+    passin:2023,
 
 }
 console.log(deepak)
